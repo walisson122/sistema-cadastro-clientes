@@ -221,3 +221,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados locais de clientes
+cliente.csv
+
+# Ambientes virtuais
+venv/
+.venv/
+venv git/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Configurações privadas do Streamlit
+.streamlit/secrets.toml
+
+# Variáveis de ambiente
+.env
+.env.*
